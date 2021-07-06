@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background: url(../Images/background.jpg);
+    background-size:50%;
+}
+button { 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 14px 20px; 
+    margin: 8px 0; 
+    border: none; 
+    cursor: pointer; 
+    width: 50%; 
+}
+
+h0{
+    color:rgba(33, 155, 163, 0.918);
+    font-size: xx-large;
+}
+
+button:hover { 
+    box-shadow: 0 0 50px 1px rgba(84, 186, 0, 0.5);
+} 
+
+img{
+    margin-top:10px ;
+ }
+
+
+
+ h4{
+     color:rgb(0, 0, 0);
+     font-size: xx-large;
+ }
+
